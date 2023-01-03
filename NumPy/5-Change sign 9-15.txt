@@ -1,4 +1,0 @@
-import numpy as np
-a=np.arange(21)
-a[(a>=9)&(a<=20)]*=-1
-print(a)
